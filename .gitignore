@@ -1,0 +1,11 @@
+# Diretórios e arquivos temporários
+__pycache__/
+*.py[cod]
+.venv/
+*.db
+*.sqlite
+*.csv
+
+# Arquivos de ambiente
+.env
+.env.*
